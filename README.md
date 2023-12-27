@@ -1,7 +1,4 @@
-<h3 align="center">My name is <b>Victor Developer (VxctorDev)</b></h3>
-<h4 align="center">Olá meu nome e João Victor, tenho 14 anos e sou programador de robôs para redes sociais em gerais.</h4>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<h1 align="center">My name is <b>João Victor (VxctorDev)</b></h1>
 
 <h2 align="center"><img src="assets/contact_me.gif" width="35px"/><b>Redes Sociais</b>
    
@@ -19,11 +16,12 @@
 <h2 align="center"><img src="assets/about_me.gif" width="20px">&nbsp;&nbsp;<b>About me</b></h2>
 
 - 💻 Programador **há 4 anos** (_23.08.2019_).
-- ✨ Meu passa-tempo são programações de bots avançados.
-- 🎵 Gosto muito de ouvir *Trap's* e *Rap*.
+- 💻 Programador Web **há 1 ano** (_14.09.2022_)
+- ✨ Meu passa-tempo são programações de bots avançados / leitura.
+- 🎵 Gosto muito de ouvir *Trap Gospel* e *Louvor*.
 - 📚 Cursando **TI** e **Programação Avançada**.
-- 🔗 Meu site: **Coming Soon...**
-- 👑 Fundador & Coordenador da **Nesquix Group**.
+- 🔗 Meu site: [My Portfólio](https://vxctordev-website.vercel.app/)
+- 👑 Fundador & Coordenador da **DevsNat7 Group**.
 - 🌐 Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema. - **Thales Valentim**
 
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -37,7 +35,6 @@
    ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
    ![Node.Js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
    ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
    ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
